@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<pets>
+ <cat>
+  <name>Muza</name>
+  <age>0,5</age>
+ </cat>
+ <dog>
+  <name>Topeek</name>
+  <age>2</age>
+  <breed>Sheepdog</breed>
+ </dog>
+ <dog>
+  <name>Bobeek</name>
+  <age>5</age>
+  <breed>Sheepdog</breed>
+ </dog>
+</pets>
